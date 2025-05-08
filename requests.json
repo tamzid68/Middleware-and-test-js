@@ -1,0 +1,27 @@
+[
+  {
+    "method": "GET",
+    "url": "/api/user?token=123",
+    "ip": "::1",
+    "timestamp": "2025-05-08T12:01:55.548Z",
+    "headers": {
+      "user-agent": "PostmanRuntime/7.43.4",
+      "accept-encoding": "gzip, deflate, br",
+      "host": "localhost:3000",
+      "connection": "keep-alive"
+    }
+  },
+  {
+    "method": "GET",
+    "url": "/api/user?token=123",
+    "ip": "::1",
+    "timestamp": "2025-05-08T12:02:11.569Z",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+      "accept-language": "en-US,en;q=0.9",
+      "accept-encoding": "gzip, deflate, br, zstd",
+      "host": "localhost:3000",
+      "connection": "keep-alive"
+    }
+  }
+]
